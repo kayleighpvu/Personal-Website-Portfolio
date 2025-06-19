@@ -1,7 +1,7 @@
 @font-face {
-    font-family: gentlefont;
-    src: url(font/gentlefont.otf);
-  }
+  font-family: gentlefont;
+  src: url("font/gentlefont.otf");
+}
 
 html {
     scroll-behavior: smooth;
