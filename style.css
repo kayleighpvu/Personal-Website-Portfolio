@@ -1,6 +1,6 @@
 @font-face {
     font-family: gentlefont;
-    src: url(gentlefont.otf);
+    src: url("gentlefont.otf");
   }
 
 html {
